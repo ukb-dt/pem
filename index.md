@@ -90,7 +90,7 @@ Ah, the **causal cascade** itself—the sequence of questions that structures in
 > -- [The Heaviest Burden](https://www.gutenberg.org/files/52881/52881-h/52881-h.htm)
 
 ### **1. Por qué (Why)** — *Metaphysics*
-- The **motive**, the [telos](What if a demon crept after thee), the **ΔS**
+- The **motive**, the [telos](https://www.gutenberg.org/files/52881/52881-h/52881-h.htm), the **ΔS**
 - "Why does this matter? What does it mean?"
 - This is the **integrative** question—it accumulates experience (∫ε dt) and asks: *What should we optimize for?*
 - It's **normative**: it sets the value function, the goal, the direction of the bow
