@@ -66,6 +66,12 @@ Metaphysics listens for the music in the strain.
 
 And that, at last, is how the grammar of life becomes prosody: the universe reading itself aloud.
 
+
+<div style="display: flex; gap: 10px;">
+  <iframe src="https://www.youtube.com/embed/86Hyjx5U8Ns" width="45%" height="315" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ## En Español
 
 Ah, the **causal cascade** itself—the sequence of questions that structures inquiry:
