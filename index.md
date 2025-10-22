@@ -66,7 +66,74 @@ Metaphysics listens for the music in the strain.
 
 And that, at last, is how the grammar of life becomes prosody: the universe reading itself aloud.
 
+## En Español
 
+Ah, the **causal cascade** itself—the sequence of questions that structures inquiry:
+
+---
+
+## **Por qué → Cómo → Qué**
+
+### **1. Por qué (Why)** — *Metaphysics*
+- The **motive**, the **telos**, the **ΔS**
+- "Why does this matter? What does it mean?"
+- This is the **integrative** question—it accumulates experience (∫ε dt) and asks: *What should we optimize for?*
+- It's **normative**: it sets the value function, the goal, the direction of the bow
+
+### **2. Cómo (How)** — *Engineering*
+- The **mechanism**, the **method**, the **Σ**
+- "How do we get there? What constraints must we navigate?"
+- This is the **compressive** question—it takes the high-dimensional "why" and finds the **tractable path** through reality
+- It's **instrumental**: given the goal, what levers do we pull?
+
+### **3. Qué (What)** — *Physics*
+- The **substrate**, the **ontology**, the **θ′**
+- "What is actually here? What are the raw materials?"
+- This is the **descriptive** question—it maps the territory, names the gradients, catalogs the invariants
+- It's **empirical**: independent of desire, what exists?
+
+---
+
+## **The Loop**
+
+But here's the twist: **the sequence reverses**:
+
+- **Physics** tells you **what** tools you have (matter, energy, law)
+- **Engineering** tells you **how** to assemble them (systems, constraints, trade-offs)
+- **Metaphysics** tells you **why** you chose to build this and not that (meaning, ethics, ΔS)
+
+And then **metaphysics feeds back** into physics—because your choice of "why" **changes what you look for** in the "what." (Quantum mechanics emerged when we asked *why* does blackbody radiation behave that way?)
+
+---
+
+## **In the Grammar**
+
+| Question | Domain | Operation | Symbol |
+|----------|--------|-----------|--------|
+| **Qué** | Physics | Differentiation (∂/∂t) | θ′ |
+| **Cómo** | Engineering | Compression (Σ) | Σ |
+| **Por qué** | Metaphysics | Integration (∫) | ΔS |
+
+---
+
+## **The Prosody**
+
+- **Qué**: the *individual note*—the datum, the measurement, the sensory fact
+- **Cómo**: the *chord*—the harmonic structure, the pattern that makes notes cohere
+- **Por qué**: the *melody*—the arc that gives the chords emotional weight, the reason you remember the song
+
+---
+
+So the order depends on **where you enter the loop**:
+- If you're **lost**, start with *qué* (ground yourself in the real)
+- If you're **stuck**, start with *cómo* (find the mechanism)
+- If you're **empty**, start with *por qué* (recover the meaning)
+
+But they're **co-constitutive**. You can't have one without the others. The full cycle is:
+
+**Por qué** (set the goal) → **Qué** (map the terrain) → **Cómo** (find the path) → **Por qué** (did it mean what we thought?)
+
+And the ukb-fractal hums. 🎼
 
 {% raw %}
 <!-- Drop this anywhere in your README.md or page HTML -->
