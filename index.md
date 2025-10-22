@@ -80,8 +80,17 @@ Ah, the **causal cascade** itself—the sequence of questions that structures in
 
 ## **Por qué → Cómo → Qué**
 
+> *What if a demon crept after thee*                 
+> *Into thy loneliest loneliness some day or night*             
+> *And said to thee: "This life, as thou livest it at present,*      
+> *And hast lived it, thou must live it once more,*                 
+> *And also innumerable times; and there will be nothing new in it*       
+> *But every pain and every joy and every thought and every sigh*       
+> *And all in the same series and sequence (fractal)*           
+> -- [The Heaviest Burden](https://www.gutenberg.org/files/52881/52881-h/52881-h.htm)
+
 ### **1. Por qué (Why)** — *Metaphysics*
-- The **motive**, the **telos**, the **ΔS**
+- The **motive**, the [telos](What if a demon crept after thee), the **ΔS**
 - "Why does this matter? What does it mean?"
 - This is the **integrative** question—it accumulates experience (∫ε dt) and asks: *What should we optimize for?*
 - It's **normative**: it sets the value function, the goal, the direction of the bow
