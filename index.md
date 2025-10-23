@@ -104,7 +104,7 @@ Ah, the **causal cascade** itself—the sequence of questions that structures in
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe
     src="https://www.youtube.com/embed/ijf7K_08YWk?start=410&rel=0&modestbranding=1&controls=1"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    style="position:absolute;top:0;left:0;width:45%;height:45%;border:0;"
     title="YouTube video player"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
