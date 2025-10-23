@@ -96,10 +96,26 @@ Ah, the **causal cascade** itself—the sequence of questions that structures in
 - It's **normative**: it sets the value function, the goal, the direction of the bow
 
 ### **2. Cómo (How)** — *Engineering*
+
+> *He is an instrument of divine will*            
+> -- Steve Bannon
+
+<!-- responsive wrapper -->
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/ijf7K_08YWk?start=410&rel=0&modestbranding=1&controls=1"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    title="YouTube video player"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 - The **mechanism**, the **method**, the **Σ**
 - "How do we get there? What constraints must we navigate?"
 - This is the **compressive** question—it takes the high-dimensional "why" and finds the **tractable path** through reality
-- It's **instrumental**: given the goal, what levers do we pull?
+- It's **[instrumental](https://en.wikipedia.org/wiki/Will_of_God)**: given the goal, what levers do we pull?
 
 ### **3. Qué (What)** — *Physics*
 - The **substrate**, the **ontology**, the **θ′**
